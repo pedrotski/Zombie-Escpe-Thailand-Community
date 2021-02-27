@@ -6,7 +6,7 @@
 	}
 	"enabled"
 	{
-		"en"	"has been {lighgreen}Enabled."
+		"en"	"has been {lightgreen}Enabled."
 	}
 	"disabled"
 	{
